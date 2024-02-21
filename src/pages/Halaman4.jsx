@@ -22,7 +22,7 @@ const Halaman4 = () => {
       {/* <img className='animate-spin' src="img/roy.jpg" width={150} alt="" /> */}
       </div>
     <div>
-      <img className="" src="/img/didapadya.jpeg" alt="" />
+      <img className="" src="/img/didapadya.jpeg" alt="" width={200}/>
 
     </div>
       {/* <video src="/videos/video1.mp4"></video> */}
