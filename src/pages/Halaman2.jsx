@@ -13,6 +13,10 @@ const Halaman2 = () => {
     e.preventDefault();
     if (
       panggilanDida == nama ||
+      panggilanDida == "Ibu ikan" ||
+      panggilanDida == "Ibu Ikan" ||
+      panggilanDida == "Bu Ikan" ||
+      panggilanDida == "Bu ikan" ||
       panggilanDida == "bu ikan" ||
       panggilanDida == "nasution" ||
       panggilanDida == "nasutyon" ||
